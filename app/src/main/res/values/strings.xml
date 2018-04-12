@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherWatcher</string>
+    <string name="update_text">Обновлено</string>
+    <string name="temp_text">Температура</string>
+    <string name="pressure_text">Давление</string>
+    <string name="himidity_text">Влажность</string>
+    <string name="sunrise_text">Рассвет</string>
+    <string name="sunset_text">Закат</string>
+</resources>
